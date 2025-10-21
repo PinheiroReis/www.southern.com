@@ -1,17 +1,9 @@
 ---
-title: My Site
-toc: false
+title: "My Landing Page"
+date: 2025-10-21T20:46:34-03:00
+draft: true
 ---
 
-This is the landing page.
+# Siga para o blog
 
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+This is the root page, follow: [My Blog](blog/)
